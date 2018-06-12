@@ -3,5 +3,5 @@
 ## Build-in with:
 * Back-end - Ruby-Sinatra
 * Front-end - HTML,CSS,Javascript
-* Mail service - Mail gun
+* Mail service - Mailgun
 
